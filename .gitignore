@@ -1,0 +1,17 @@
+# Archivos de Visual Studio
+.vs/
+*.suo
+*.user
+*.cache
+*.sdf
+*.log
+*.tlog
+*.db
+*.opendb
+
+# Archivos de compilación
+bin/
+obj/
+
+# Configuración específica del usuario
+*.userprefs

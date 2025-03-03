@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADES1\\source\\repos\\GastroWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88750575-0F71-41A3-9715-D9903934000C}|GastroWorld\\GastroWorld.csproj|c:\\users\\ades1\\source\\repos\\gastroworld\\gastroworld\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88750575-0F71-41A3-9715-D9903934000C}|GastroWorld\\GastroWorld.csproj|solutionrelative:gastroworld\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88750575-0F71-41A3-9715-D9903934000C}|GastroWorld\\GastroWorld.csproj|c:\\users\\ades1\\source\\repos\\gastroworld\\gastroworld\\views\\pgprincipal\\cargarview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88750575-0F71-41A3-9715-D9903934000C}|GastroWorld\\GastroWorld.csproj|solutionrelative:gastroworld\\views\\pgprincipal\\cargarview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88750575-0F71-41A3-9715-D9903934000C}|GastroWorld\\GastroWorld.csproj|c:\\users\\ades1\\source\\repos\\gastroworld\\gastroworld\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88750575-0F71-41A3-9715-D9903934000C}|GastroWorld\\GastroWorld.csproj|solutionrelative:gastroworld\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88750575-0F71-41A3-9715-D9903934000C}|GastroWorld\\GastroWorld.csproj|c:\\users\\ades1\\source\\repos\\gastroworld\\gastroworld\\gastroworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88750575-0F71-41A3-9715-D9903934000C}|GastroWorld\\GastroWorld.csproj|solutionrelative:gastroworld\\gastroworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88750575-0F71-41A3-9715-D9903934000C}|GastroWorld\\GastroWorld.csproj|c:\\users\\ades1\\source\\repos\\gastroworld\\gastroworld\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{88750575-0F71-41A3-9715-D9903934000C}|GastroWorld\\GastroWorld.csproj|solutionrelative:gastroworld\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88750575-0F71-41A3-9715-D9903934000C}|GastroWorld\\GastroWorld.csproj|c:\\users\\ades1\\source\\repos\\gastroworld\\gastroworld\\wwwroot\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{88750575-0F71-41A3-9715-D9903934000C}|GastroWorld\\GastroWorld.csproj|solutionrelative:gastroworld\\wwwroot\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88750575-0F71-41A3-9715-D9903934000C}|GastroWorld\\GastroWorld.csproj|c:\\users\\ades1\\source\\repos\\gastroworld\\gastroworld\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88750575-0F71-41A3-9715-D9903934000C}|GastroWorld\\GastroWorld.csproj|solutionrelative:gastroworld\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88750575-0F71-41A3-9715-D9903934000C}|GastroWorld\\GastroWorld.csproj|c:\\users\\ades1\\source\\repos\\gastroworld\\gastroworld\\wwwroot\\css\\footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{88750575-0F71-41A3-9715-D9903934000C}|GastroWorld\\GastroWorld.csproj|solutionrelative:gastroworld\\wwwroot\\css\\footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADES1\\source\\repos\\GastroWorld\\GastroWorld\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GastroWorld\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ADES1\\source\\repos\\GastroWorld\\GastroWorld\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GastroWorld\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T23:11:35.575Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GastroWorld.csproj",
+              "DocumentMoniker": "C:\\Users\\ADES1\\source\\repos\\GastroWorld\\GastroWorld\\GastroWorld.csproj",
+              "RelativeDocumentMoniker": "GastroWorld\\GastroWorld.csproj",
+              "ToolTip": "C:\\Users\\ADES1\\source\\repos\\GastroWorld\\GastroWorld\\GastroWorld.csproj",
+              "RelativeToolTip": "GastroWorld\\GastroWorld.csproj",
+              "ViewState": "AgIAAAUAAABgmZmZmVkqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T21:43:44.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADES1\\source\\repos\\GastroWorld\\GastroWorld\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GastroWorld\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ADES1\\source\\repos\\GastroWorld\\GastroWorld\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GastroWorld\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T02:01:42.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Footer.css",
+              "DocumentMoniker": "C:\\Users\\ADES1\\source\\repos\\GastroWorld\\GastroWorld\\wwwroot\\css\\Footer.css",
+              "RelativeDocumentMoniker": "GastroWorld\\wwwroot\\css\\Footer.css",
+              "ToolTip": "C:\\Users\\ADES1\\source\\repos\\GastroWorld\\GastroWorld\\wwwroot\\css\\Footer.css",
+              "RelativeToolTip": "GastroWorld\\wwwroot\\css\\Footer.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-28T01:44:24.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.css",
+              "DocumentMoniker": "C:\\Users\\ADES1\\source\\repos\\GastroWorld\\GastroWorld\\wwwroot\\css\\Login.css",
+              "RelativeDocumentMoniker": "GastroWorld\\wwwroot\\css\\Login.css",
+              "ToolTip": "C:\\Users\\ADES1\\source\\repos\\GastroWorld\\GastroWorld\\wwwroot\\css\\Login.css",
+              "RelativeToolTip": "GastroWorld\\wwwroot\\css\\Login.css",
+              "ViewState": "AgIAACUAAAAAAAAAAAAswFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-28T01:40:36.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Layout.css",
+              "DocumentMoniker": "C:\\Users\\ADES1\\source\\repos\\GastroWorld\\GastroWorld\\wwwroot\\css\\Layout.css",
+              "RelativeDocumentMoniker": "GastroWorld\\wwwroot\\css\\Layout.css",
+              "ToolTip": "C:\\Users\\ADES1\\source\\repos\\GastroWorld\\GastroWorld\\wwwroot\\css\\Layout.css",
+              "RelativeToolTip": "GastroWorld\\wwwroot\\css\\Layout.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-28T00:23:24.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cargarView.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADES1\\source\\repos\\GastroWorld\\GastroWorld\\Views\\Pgprincipal\\cargarView.cshtml",
+              "RelativeDocumentMoniker": "GastroWorld\\Views\\Pgprincipal\\cargarView.cshtml",
+              "ToolTip": "C:\\Users\\ADES1\\source\\repos\\GastroWorld\\GastroWorld\\Views\\Pgprincipal\\cargarView.cshtml",
+              "RelativeToolTip": "GastroWorld\\Views\\Pgprincipal\\cargarView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T23:11:09.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADES1\\source\\repos\\GastroWorld\\GastroWorld\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "GastroWorld\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ADES1\\source\\repos\\GastroWorld\\GastroWorld\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "GastroWorld\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T23:11:02.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

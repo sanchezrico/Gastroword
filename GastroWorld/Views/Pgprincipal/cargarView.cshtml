@@ -3,41 +3,94 @@
 *@
 @{
 }
+<link href="~/css/pgprincipal.css" rel="stylesheet" />
 <style>
-    fondo {
-        width: 100%;
-        height: 400px;
-        background-image: url('ruta/a/tu/imagen.jpg');
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
+   .fondo{
+       background:#E8DCCA;
+   }
+    .container {
+        max-width: 1200px; /* Establece un ancho máximo para el contenedor */
+        margin: 0 auto; /* Centra el contenedor horizontalmente */
+        padding: 0 20px; /* Agrega un margen a los lados */
+        background-color: white;
     }
+
+    .image-container {
+        position: relative; /* Establece el contenedor como posicionado relativamente */
+        width: 100%;
+        height: auto;
+    }
+
+        .image-container img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        .image-container span {
+            position: absolute; /* Posiciona el encabezado de forma absoluta dentro del contenedor */
+            top: 10px; /* Ajusta la distancia desde la parte superior */
+            left: 10px; /* Ajusta la distancia desde la parte izquierda */
+            color: black; /* Establece el color del texto */
+            padding: 5px 10px; /* Agrega un poco de espacio alrededor del texto */
+            margin: 0; /* Elimina el margen predeterminado del encabezado */
+        }
+
+    .bg-fixed {
+        background-image: url('imagenes/tabla fondo.jpeg');
+        background-attachment: fixed;
+        background-size: cover; /* Opcional: para cubrir todo el fondo */
+        background-position: center; /* Opcional: centrar la imagen */
+    }
+
 </style>
+<div class="image-container">
+    <img src="https://static.wixstatic.com/media/a0f108_e39690c56c2f4f8b825f349e8ae69cb4~mv2.jpg/v1/fill/w_1899,h_641,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/a0f108_e39690c56c2f4f8b825f349e8ae69cb4~mv2.jpg">
+    <span style="font-family: sans-serif; font-size: 80px;font-style:italic;">Bienvenido <br />
+        a<br />
+        GastroWorld</span>
+</div>
+<br />
 <div>
-    <h1>Bienvenido a Gastroworld</h1>
-    <p>
-        En este pequeño espacio en la wed, vas a poder compartir tú amor y pasion por la gastronomia con
-        otras personas que comparten tus mismos gustos.
-    </p>
-    <div>
-        <img src="~/imagenes/1097602.jpg" />
-    </div>
-        <h2>zona social</h2>
-        <p>
-            En este espacio, tendrás la oportunidad de compartir tus experiencias, recetas, platillos y
-            lugares favoritos con los demás miembros de la comunidad.
-            Además, podrás intercambiar consejos sobre ingredientes, técnicas, La idea es fomentar un ambiente colaborativo donde
-            todos puedan aprender unos de otros, inspirarse y disfrutar de la diversidad culinaria que cada uno aporta.
-            ¡Anímate a participar y enriquecer nuestra comunidad con tus aportes!
-        </p>
-        <div>
-            <span
-            <li class="nav-item">
-                <a class="nav-link text-dark" asp-area="" asp-controller="Zonasocial" asp-action="Zonasocial">Zona Social</a>
-            </li>
-            </span>
+    <div class="main-container">
+        <div class="card-wrapper">
+            <div class="card">
+                <img src="~/imagenes/1097602.jpg" />
+                     alt="image">
+                <div class="text-wrapper">
+                    <a asp-area="" asp-controller="Zonasocial" asp-action="Zonasocial">
+                        <h1 class="title">Zona social</h1>
+                    </a>
+                    <p>
+                        En este espacio, tendrás la oportunidad de compartir tus experiencias, recetas, platillos y
+                        lugares favoritos con los demás miembros de la comunidad.
+                        Además, podrás intercambiar consejos sobre ingredientes, técnicas, La idea es fomentar un ambiente colaborativo donde
+                        todos puedan aprender unos de otros, inspirarse y disfrutar de la diversidad culinaria que cada uno aporta.
+                        ¡Anímate a participar y enriquecer nuestra comunidad con tus aportes!
+                    </p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="~/imagenes/mesa-de-comida.png" />
+                     alt="image">
+                <div class="text-wrapper">
+                    <a asp-area="" asp-controller="Repositorio" asp-action="Repositorio">
+                        <h1 class="title">Repositorio</h1>
+                    </a>
+                    <p>
+                        Encuentra una variada cantidad de informacion relacionada a la gastronomia, tambien restaurantes recomendados.
+                    </p>
+                </div>
+            </div>
+           
         </div>
-        <h2>Repositorio</h2>
-        <p>Encuentra una variada cantidad de informacion relacionada a la gastronomia, tambien restaurantes recomendados  </p>
-        <p><a>Learn more &raquo;</a></p>
+    </div>
+</div>
+<div>
+    <body class="bg-fixed">
+    </body>
+    <div class="fondo">
+        <p>texto</p>
+    </div>
+    
 </div>

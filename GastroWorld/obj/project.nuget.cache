@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hEOsOZr5rDs=",
+  "dgSpecHash": "HJlNbY3nem4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\victo\\OneDrive\\Escritorio\\GastroWorld\\GastroWorld\\GastroWorld.csproj",
+  "projectFilePath": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\GastroWorld.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

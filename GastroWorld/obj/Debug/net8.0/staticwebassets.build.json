@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "O+mBaPiuegHSYc7g8v18e+KO/6R2yVfVYfBtWMLmLco=",
+  "Hash": "Q98Guy/WdxAoJeqa0cgYNssfnSwhNm51/gDP3ydUbBU=",
   "Source": "GastroWorld",
   "BasePath": "_content/GastroWorld",
   "Mode": "Default",
@@ -136,11 +136,74 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dypdp0rwye",
-      "Integrity": "pS3jm5ANmycPIYHme5ljXFPV8m29eUayD7SOY6X8FtM=",
+      "Fingerprint": "i8k2fa99ff",
+      "Integrity": "DoZASB0fJMSUerIgeSiEuZI+cSTXvNpcBLx2/9Pm8as=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Login.css"
+    },
+    {
+      "Identity": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\css\\Pfusuarios.css",
+      "SourceId": "GastroWorld",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\",
+      "BasePath": "_content/GastroWorld",
+      "RelativePath": "css/Pfusuarios#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1qtcoz4s3d",
+      "Integrity": "hxppbp1XOZSQBK9I7nj0LR0qE0vOrrknSbRgh3MkHJU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Pfusuarios.css"
+    },
+    {
+      "Identity": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\css\\Pgprincipal.css",
+      "SourceId": "GastroWorld",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\",
+      "BasePath": "_content/GastroWorld",
+      "RelativePath": "css/Pgprincipal#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ner5l47dbz",
+      "Integrity": "AXH9mCfsf2uQvPOfPdQr95H/9tJvdb8fUvAZ+OYDj1c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Pgprincipal.css"
+    },
+    {
+      "Identity": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\css\\Registro.css",
+      "SourceId": "GastroWorld",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\",
+      "BasePath": "_content/GastroWorld",
+      "RelativePath": "css/Registro#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jyminfyplz",
+      "Integrity": "u7ef4hildlkUP9HVwjUZwmnY6E2lYlOrScIWxelO1vI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Registro.css"
     },
     {
       "Identity": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\css\\site.css",
@@ -267,6 +330,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagenes\\top-view-food-frame-with-copy-space.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\js\\perfil.js",
+      "SourceId": "GastroWorld",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\",
+      "BasePath": "_content/GastroWorld",
+      "RelativePath": "js/perfil#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "otk4tn3tfg",
+      "Integrity": "lFSHKpL+cXr0GZn7QV6Uy7AKB83gJhnra/lTeX4AnUY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\perfil.js"
     },
     {
       "Identity": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\js\\site.js",
@@ -1745,7 +1829,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1530"
+          "Value": "1302"
         },
         {
           "Name": "Content-Type",
@@ -1753,11 +1837,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pS3jm5ANmycPIYHme5ljXFPV8m29eUayD7SOY6X8FtM=\""
+          "Value": "\"DoZASB0fJMSUerIgeSiEuZI+cSTXvNpcBLx2/9Pm8as=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 18:53:51 GMT"
+          "Value": "Wed, 05 Mar 2025 21:35:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1767,12 +1851,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pS3jm5ANmycPIYHme5ljXFPV8m29eUayD7SOY6X8FtM="
+          "Value": "sha256-DoZASB0fJMSUerIgeSiEuZI+cSTXvNpcBLx2/9Pm8as="
         }
       ]
     },
     {
-      "Route": "css/Login.dypdp0rwye.css",
+      "Route": "css/Login.i8k2fa99ff.css",
       "AssetFile": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\css\\Login.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1782,7 +1866,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1530"
+          "Value": "1302"
         },
         {
           "Name": "Content-Type",
@@ -1790,11 +1874,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pS3jm5ANmycPIYHme5ljXFPV8m29eUayD7SOY6X8FtM=\""
+          "Value": "\"DoZASB0fJMSUerIgeSiEuZI+cSTXvNpcBLx2/9Pm8as=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 18:53:51 GMT"
+          "Value": "Wed, 05 Mar 2025 21:35:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1804,7 +1888,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dypdp0rwye"
+          "Value": "i8k2fa99ff"
         },
         {
           "Name": "label",
@@ -1812,7 +1896,253 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pS3jm5ANmycPIYHme5ljXFPV8m29eUayD7SOY6X8FtM="
+          "Value": "sha256-DoZASB0fJMSUerIgeSiEuZI+cSTXvNpcBLx2/9Pm8as="
+        }
+      ]
+    },
+    {
+      "Route": "css/Pfusuarios.1qtcoz4s3d.css",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\css\\Pfusuarios.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3277"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hxppbp1XOZSQBK9I7nj0LR0qE0vOrrknSbRgh3MkHJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 21:35:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1qtcoz4s3d"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Pfusuarios.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hxppbp1XOZSQBK9I7nj0LR0qE0vOrrknSbRgh3MkHJU="
+        }
+      ]
+    },
+    {
+      "Route": "css/Pfusuarios.css",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\css\\Pfusuarios.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3277"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hxppbp1XOZSQBK9I7nj0LR0qE0vOrrknSbRgh3MkHJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 21:35:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hxppbp1XOZSQBK9I7nj0LR0qE0vOrrknSbRgh3MkHJU="
+        }
+      ]
+    },
+    {
+      "Route": "css/Pgprincipal.css",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\css\\Pgprincipal.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AXH9mCfsf2uQvPOfPdQr95H/9tJvdb8fUvAZ+OYDj1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 21:35:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AXH9mCfsf2uQvPOfPdQr95H/9tJvdb8fUvAZ+OYDj1c="
+        }
+      ]
+    },
+    {
+      "Route": "css/Pgprincipal.ner5l47dbz.css",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\css\\Pgprincipal.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AXH9mCfsf2uQvPOfPdQr95H/9tJvdb8fUvAZ+OYDj1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 21:35:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ner5l47dbz"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Pgprincipal.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AXH9mCfsf2uQvPOfPdQr95H/9tJvdb8fUvAZ+OYDj1c="
+        }
+      ]
+    },
+    {
+      "Route": "css/Registro.css",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\css\\Registro.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1159"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u7ef4hildlkUP9HVwjUZwmnY6E2lYlOrScIWxelO1vI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 21:35:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u7ef4hildlkUP9HVwjUZwmnY6E2lYlOrScIWxelO1vI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Registro.jyminfyplz.css",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\css\\Registro.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1159"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u7ef4hildlkUP9HVwjUZwmnY6E2lYlOrScIWxelO1vI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 21:35:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jyminfyplz"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Registro.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u7ef4hildlkUP9HVwjUZwmnY6E2lYlOrScIWxelO1vI="
         }
       ]
     },
@@ -2003,7 +2333,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 18:53:51 GMT"
+          "Value": "Wed, 05 Mar 2025 21:34:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2040,7 +2370,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 18:53:51 GMT"
+          "Value": "Wed, 05 Mar 2025 21:34:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2077,7 +2407,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 18:53:51 GMT"
+          "Value": "Wed, 05 Mar 2025 21:34:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2122,7 +2452,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 18:53:51 GMT"
+          "Value": "Wed, 05 Mar 2025 21:34:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2469,6 +2799,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-QbPAq5d7OyIV4UhouOBe1Rhv8qGpsb/bkxmoIaS0myo="
+        }
+      ]
+    },
+    {
+      "Route": "js/perfil.js",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\js\\perfil.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1371"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lFSHKpL+cXr0GZn7QV6Uy7AKB83gJhnra/lTeX4AnUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 21:35:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lFSHKpL+cXr0GZn7QV6Uy7AKB83gJhnra/lTeX4AnUY="
+        }
+      ]
+    },
+    {
+      "Route": "js/perfil.otk4tn3tfg.js",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\js\\perfil.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1371"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lFSHKpL+cXr0GZn7QV6Uy7AKB83gJhnra/lTeX4AnUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 21:35:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "otk4tn3tfg"
+        },
+        {
+          "Name": "label",
+          "Value": "js/perfil.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lFSHKpL+cXr0GZn7QV6Uy7AKB83gJhnra/lTeX4AnUY="
         }
       ]
     },

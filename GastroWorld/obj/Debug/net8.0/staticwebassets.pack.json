@@ -21,6 +21,18 @@
       "PackagePath": "staticwebassets\\css\\Login.css"
     },
     {
+      "Id": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\css\\Pfusuarios.css",
+      "PackagePath": "staticwebassets\\css\\Pfusuarios.css"
+    },
+    {
+      "Id": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\css\\Pgprincipal.css",
+      "PackagePath": "staticwebassets\\css\\Pgprincipal.css"
+    },
+    {
+      "Id": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\css\\Registro.css",
+      "PackagePath": "staticwebassets\\css\\Registro.css"
+    },
+    {
       "Id": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -43,6 +55,10 @@
     {
       "Id": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\imagenes\\top-view-food-frame-with-copy-space.jpg",
       "PackagePath": "staticwebassets\\imagenes\\top-view-food-frame-with-copy-space.jpg"
+    },
+    {
+      "Id": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\js\\perfil.js",
+      "PackagePath": "staticwebassets\\js\\perfil.js"
     },
     {
       "Id": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\wwwroot\\js\\site.js",

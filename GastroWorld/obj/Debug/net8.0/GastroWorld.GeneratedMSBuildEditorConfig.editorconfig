@@ -24,12 +24,20 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/victo/OneDrive/Escritorio/Proyectos/GastroWorld/GastroWorld/Views/PerfilUS/perfil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyZmlsVVNccGVyZmlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/victo/OneDrive/Escritorio/Proyectos/GastroWorld/GastroWorld/Views/Pgprincipal/cargarView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGdwcmluY2lwYWxcY2FyZ2FyVmlldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/victo/OneDrive/Escritorio/Proyectos/GastroWorld/GastroWorld/Views/Registro/Registro.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9cUmVnaXN0cm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/victo/OneDrive/Escritorio/Proyectos/GastroWorld/GastroWorld/Views/Repositorio/Repositorio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3NpdG9yaW9cUmVwb3NpdG9yaW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/victo/OneDrive/Escritorio/Proyectos/GastroWorld/GastroWorld/Views/Shared/Error.cshtml]

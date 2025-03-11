@@ -14,11 +14,14 @@ namespace Gastroworld.Models.Model
         [Required, MaxLength(100)]
         public string Nombre { get; set; }
 
+        [Required, MaxLength(100)]
+        public string LUsuario {  get; set; }
+
         [Required, MaxLength(150)]
         public string Email { get; set; }
 
         [Required, MaxLength(255)]
-        public string Contraseña { get; set; }
+        public string Password { get; set; }
 
         [Required]
         public string Foto { get; set; }

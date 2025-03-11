@@ -102,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -119,6 +119,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
@@ -131,8 +135,7 @@
               "RelativeToolTip": "GastroWorld\\Models\\Tu.cuenta.usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T20:29:46.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T20:29:46.69Z"
             },
             {
               "$type": "Document",
@@ -144,8 +147,7 @@
               "RelativeToolTip": "GastroWorld\\Controllers\\Tu_cuenta.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAwwDQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T19:10:30.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T19:10:30.599Z"
             },
             {
               "$type": "Document",
@@ -170,8 +172,7 @@
               "RelativeToolTip": "GastroWorld\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T19:31:51.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T19:31:51.114Z"
             },
             {
               "$type": "Document",
@@ -195,8 +196,7 @@
               "RelativeToolTip": "GastroWorld\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T18:30:29.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T18:30:29.79Z"
             },
             {
               "$type": "Document",
@@ -208,8 +208,7 @@
               "RelativeToolTip": "GastroWorld\\Controllers\\SobrenosotrosController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T17:36:04.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T17:36:04.672Z"
             },
             {
               "$type": "Document",

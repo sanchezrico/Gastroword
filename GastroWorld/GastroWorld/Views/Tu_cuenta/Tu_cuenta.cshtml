@@ -3,45 +3,48 @@
 *@
 @{
 }
-
+@model Tucuenta
 
 <link rel="stylesheet" href="~/css/Cuenta.css">
+<form asp-action="Edit" method="post" >
+    <div class="menu-container">
+        <div class="menu-content">
+            <h1 class="menu-title">Gastroworld <span>Tu cuenta</span></h1>
 
-<div class="menu-container">
-    <div class="menu-content">
-        <h1 class="menu-title">Gastroworld <span>Tu cuenta</span></h1>
+            <div class="section">
 
-        <div class="section">
-            <h2 class="section-title">Informacion personal</h2>
-            <div class="item">
-                <input class="menu-input" required type="text" placeholder="Tu nombre">
+
+                <h2 class="section-title">Informacion personal</h2>
+                <div class="item">
+                    <input class="menu-input" asp-for="nombre" required type="text" placeholder="Tu nombre">
+                </div>
+    @*             <div class="item">
+                    <input class="menu-input" asp-for="apellido" required type="text" placeholder="tu apellido">
+                </div> *@
+                <div class="item">
+                    <input required="menu-input" asp-for="contraseña" required type="password" placeholder="cuales son tus ingredientes">
+                </div>
+                <div class="item">
+                    <input class="menu-input" required type="date" placeholder="tu hora de cocion">
+                </div>
             </div>
-            <div class="item">
-                <input class="menu-input" required type="text" placeholder="tu apellido">
+
+            <div class="section">
+                <h2 class="section-title">Informacion de contacto</h2>
+                <div class="item">
+                    <input class="menu-input" required type="email" placeholder="Correo">
+                </div>
+                <div class="item">
+                    <input class="menu-input" required type="number" placeholder="telefono">
+                </div>
             </div>
-            <div class="item">
-                <input required="menu-input" type="password" placeholder="cuales son tus ingredientes">
+            <div>
+                <button type="submit" onclick="orderyourchange">
+                    Ordena tus cambios
+                </button>
             </div>
-            <div class="item">
-                <input class="menu-input" required type="date" placeholder="tu hora de cocion">
-            </div>
+
         </div>
-
-        <div class="section">
-            <h2 class="section-title">Informacion de contacto</h2>
-            <div class="item">
-                <input class="menu-input" required type="email" placeholder="Correo">
-            </div>
-            <div class="item">
-                <input class="menu-input" required type="number" placeholder="telefono">
-            </div>
-        </div>
-        <div>
-            <button>
-                Ordena tus cambios
-            </button>
-        </div>
-
+        <div class="menu-image"></div>
     </div>
-    <div class="menu-image"></div>
-</div>
+</form>

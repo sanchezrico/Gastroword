@@ -1,11 +1,22 @@
+using GastroWorld.Models;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 using System.Security.Principal;
 
 var builder = WebApplication.CreateBuilder(args);
+
+
+
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
@@ -19,11 +30,14 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
 app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Pgprincipal}/{action=cargarView}/{id?}");
+
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Tu_cuentaController}/{action=Edit}/{id?}");
 
 app.Run();

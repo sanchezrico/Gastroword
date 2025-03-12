@@ -18,46 +18,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\ADES1\Desktop\proyecto\proyecto0.2\GastroWorld
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ADES1/Desktop/proyecto/proyecto0.2/GastroWorld/GastroWorld/Views/Login/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = R2FzdHJvV29ybGRcVmlld3NcTG9naW5cTG9naW4uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ADES1/Desktop/proyecto/proyecto0.2/GastroWorld/GastroWorld/Views/Pgprincipal/cargarView.cshtml]
-build_metadata.AdditionalFiles.TargetPath = R2FzdHJvV29ybGRcVmlld3NcUGdwcmluY2lwYWxcY2FyZ2FyVmlldy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ADES1/Desktop/proyecto/proyecto0.2/GastroWorld/GastroWorld/Views/Registro/Registro.cshtml]
-build_metadata.AdditionalFiles.TargetPath = R2FzdHJvV29ybGRcVmlld3NcUmVnaXN0cm9cUmVnaXN0cm8uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ADES1/Desktop/proyecto/proyecto0.2/GastroWorld/GastroWorld/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = R2FzdHJvV29ybGRcVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ADES1/Desktop/proyecto/proyecto0.2/GastroWorld/GastroWorld/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = R2FzdHJvV29ybGRcVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ADES1/Desktop/proyecto/proyecto0.2/GastroWorld/GastroWorld/Views/SobreNosotros/SobreNosotros.cshtml]
-build_metadata.AdditionalFiles.TargetPath = R2FzdHJvV29ybGRcVmlld3NcU29icmVOb3NvdHJvc1xTb2JyZU5vc290cm9zLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ADES1/Desktop/proyecto/proyecto0.2/GastroWorld/GastroWorld/Views/Tu_cuenta/Tu_cuenta.cshtml]
-build_metadata.AdditionalFiles.TargetPath = R2FzdHJvV29ybGRcVmlld3NcVHVfY3VlbnRhXFR1X2N1ZW50YS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ADES1/Desktop/proyecto/proyecto0.2/GastroWorld/GastroWorld/Views/Zonasocial/Zonasocial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = R2FzdHJvV29ybGRcVmlld3NcWm9uYXNvY2lhbFxab25hc29jaWFsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ADES1/Desktop/proyecto/proyecto0.2/GastroWorld/GastroWorld/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = R2FzdHJvV29ybGRcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ADES1/Desktop/proyecto/proyecto0.2/GastroWorld/GastroWorld/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = R2FzdHJvV29ybGRcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/ADES1/Desktop/proyecto/proyecto0.2/GastroWorld/Views/Login/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -101,10 +61,6 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/ADES1/Desktop/proyecto/proyecto0.2/GastroWorld/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ADES1/Desktop/proyecto/proyecto0.2/GastroWorld/GastroWorld/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = R2FzdHJvV29ybGRcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-1hhzih62iz
 
 [C:/Users/ADES1/Desktop/proyecto/proyecto0.2/GastroWorld/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s

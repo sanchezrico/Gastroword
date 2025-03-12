@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GastroWorld")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbe6b3822dd593cc3a20076f66f2be161ca9e4c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+287c8ba65605d074b6a0303b0607e3b8b8bd7cdb")]
 [assembly: System.Reflection.AssemblyProductAttribute("GastroWorld")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GastroWorld")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

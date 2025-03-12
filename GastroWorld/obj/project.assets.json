@@ -2306,11 +2306,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADES1\\Desktop\\proyecto\\GastroWorld\\GastroWorld.csproj",
+      "projectUniqueName": "C:\\Users\\ADES1\\Desktop\\proyecto\\proyecto0.2\\GastroWorld\\GastroWorld.csproj",
       "projectName": "GastroWorld",
-      "projectPath": "C:\\Users\\ADES1\\Desktop\\proyecto\\GastroWorld\\GastroWorld.csproj",
+      "projectPath": "C:\\Users\\ADES1\\Desktop\\proyecto\\proyecto0.2\\GastroWorld\\GastroWorld.csproj",
       "packagesPath": "C:\\Users\\ADES1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADES1\\Desktop\\proyecto\\GastroWorld\\obj\\",
+      "outputPath": "C:\\Users\\ADES1\\Desktop\\proyecto\\proyecto0.2\\GastroWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADES1\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADES1\\Desktop\\proyecto\\GastroWorld\\GastroWorld.csproj": {}
+    "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\GastroWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADES1\\Desktop\\proyecto\\GastroWorld\\GastroWorld.csproj": {
+    "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\GastroWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADES1\\Desktop\\proyecto\\GastroWorld\\GastroWorld.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\GastroWorld.csproj",
         "projectName": "GastroWorld",
-        "projectPath": "C:\\Users\\ADES1\\Desktop\\proyecto\\GastroWorld\\GastroWorld.csproj",
-        "packagesPath": "C:\\Users\\ADES1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADES1\\Desktop\\proyecto\\GastroWorld\\obj\\",
+        "projectPath": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\GastroWorld.csproj",
+        "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\victo\\OneDrive\\Escritorio\\Proyectos\\GastroWorld\\GastroWorld\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ADES1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -57,6 +62,10 @@
               "version": "[8.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.2, )"
             },
@@ -90,7 +99,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

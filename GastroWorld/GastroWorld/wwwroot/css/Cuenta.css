@@ -1,0 +1,101 @@
+﻿body {
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+.menu-container {
+    display: flex;
+    width: 70%;
+    margin: 30px auto;
+    background-color: #3a241d;
+    color: white;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.menu-content {
+    width: 55%;
+    padding: 30px;
+}
+
+.menu-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 32px;
+    font-weight: 700;
+    text-transform: uppercase;
+    position: relative;
+}
+
+    .menu-title span {
+        color: #a3d39c;
+        font-style: italic;
+        font-size: 22px;
+    }
+
+.section {
+    margin-top: 20px;
+}
+
+.section-title {
+    font-size: 22px;
+    font-weight: bold;
+    border-bottom: 2px solid #a3d39c;
+    padding-bottom: 5px;
+    display: inline-block;
+}
+
+.item {
+    margin: 15px 0;
+}
+
+.item-title {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.item-price {
+    color: #a3d39c;
+}
+
+.item-desc {
+    font-size: 14px;
+    color: #d3c6c2;
+}
+
+.menu-image {
+    width: 45%;
+    background: url('../imagenes/plato-ref.jpg') no-repeat center center/cover;
+}
+
+@media (max-width: 768px) {
+    .menu-container {
+        flex-direction: column;
+        width: 90%;
+    }
+
+    .menu-content, .menu-image {
+        width: 100%;
+    }
+
+    .menu-image {
+        height: 300px;
+    }
+}
+button {
+    border: none;
+    outline: none;
+    background-color: #372d2b;
+    padding: 10px 20px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #fff;
+    border-radius: 5px;
+    transition: all ease 0.1s;
+    box-shadow: 0px 5px 0px 0px #584845;
+}
+
+    button:active {
+        transform: translateY(5px);
+        box-shadow: 0px 0px 0px 0px #a29bfe;
+    }
